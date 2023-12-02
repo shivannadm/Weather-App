@@ -34,5 +34,22 @@
             </div>
         </div>
     </div>
+
+<script>
+    const apikey = "dee4c6774a76ea08a6189920b4e6bead";
+    const apiUrl = "https://api.openweathermap.org/data/2.5/weather?&units=metric&q=bengaluru";
+    async function checkWeather(){
+    const response = await fetch(apiUrl + `&appid=${apikey}`);
+    var data = await response.json();
+    console.log(data);
+
+
+
+}
+
+checkWeather()
+</script>
+
+
 </body>
 </html>
