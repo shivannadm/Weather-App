@@ -6,7 +6,8 @@
 }
 
 body{
-    background: #fff;
+    background-image: url("Icons/bacground.jpg");
+    background-size: cover;
 }
 
 .card{
