@@ -1,6 +1,6 @@
 # Weather-App: Current Weather Conditions and City-based Forecast
 
-Weather-App: Current Weather Conditions and City-based Forecast is a web application that provides real-time weather information for your location or any city you search for. 
+Current Weather Conditions and City-based Forecast is a web application that provides real-time weather information for your location or any city you search for. 
 Stay informed about the current temperature, wind speed, humidity, and cloud cover. 
 
 # Features
@@ -18,7 +18,7 @@ Stay informed about the current temperature, wind speed, humidity, and cloud cov
 
 # How to Use
 
-1. Open the WeatherSense Forecast website in your web browser from the link - (https://anantagg.github.io/Weather-App/)
+1. Open the WeatherSense Forecast website in your web browser from the link - (https://startweather.netlify.app/)
 2. Grant permission for the app to access your location when prompted.
 3. The app will display the current weather information for your area.
 4. To search for weather data by city name, enter the city name in the designated search bar and press Enter or click the search button.
