@@ -7,8 +7,10 @@ Stay informed about the current temperature, wind speed, humidity, and cloud cov
 
 **1. Location-based Weather:** Upon loading the website, the app will request your location to provide weather information specific to your area.
 **2. City Search:** You can also search for weather data by entering the name of a city.
+
 **3. Real-time Updates:** The app retrieves data from a weather API to ensure that you receive current weather information.
 **4. User-friendly Interface:** The weather information is displayed in a visually appealing manner, making it easy to understand and navigate.
+
 
 # Technologies Used
 
@@ -30,5 +32,5 @@ No installation is required for this web application. Simply access the WeatherS
 
 # Contributions
 
-Contributions to theWeatherSense project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request 
+Contributions to the **GreatStack** project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request 
 or open an issue in the GitHub repository.
